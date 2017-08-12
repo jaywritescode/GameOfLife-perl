@@ -11,6 +11,6 @@ Great news! Now you have a fairly awkward windowing system installed that Perl c
 
 Anyway, run the program as:
 
-<code>perl gameoflife <i>rlefile</i>
+<code>perl gameoflife <i>rlefile</i></code>
 
 where _`rlefile`_ is a text file in run-length encoded format. You can find lots and lots of RLE files at http://www.conwaylife.com/patterns/.
